@@ -1,4 +1,4 @@
-# raycast-scripts
+# [Raycast](https://raycast.com) Scripts
 AppleScripts for Raycast.com
 
 ## What do we have here
