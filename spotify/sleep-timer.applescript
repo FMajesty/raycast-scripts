@@ -17,4 +17,6 @@ on run argv
 	set time_before_sleep to item 1 of argv as integer
 	delay time_before_sleep * 60
 	tell application "Spotify" to playpause
+	tell application "Finder" to sleep
 end run
+
